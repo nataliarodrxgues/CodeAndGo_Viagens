@@ -1,0 +1,155 @@
+.navbar-nav > li >a{
+    color: #F57F5B;
+}
+
+#card-title,
+#card-text {
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); 
+}
+
+
+.card-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .card-img-left {
+    margin-right: 20px;
+  }
+  
+
+  .list-group-item {
+    border: none;
+  }
+  
+
+.custom-form {
+    background-color: #f2f2f2;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    margin: auto;
+    background-color: #f8f9fa;
+    padding: 30px;
+
+    
+}
+  .btn-warning {
+    background-color: #ffc107;
+    border-color: #ffc107;
+  }
+  
+  .btn-warning:hover {
+    background-color: #ffa000;
+    border-color: #ffa000;
+    padding: 15px;
+  }
+  
+  .btn-space-down {
+    margin-top: 20px;
+  }
+
+
+.container mt-5 h2 {
+  text-align: center;
+}
+
+
+.rounded-circle {
+  border-radius: 50%;
+  width: 80%; 
+  margin: 0 auto; 
+  display: block; 
+  padding: 5px;
+
+}
+
+
+.btn-custom {
+  width: 100vh; 
+}
+
+
+.card-img-left:hover {
+  transform: scale(1.05);
+}
+
+.list-group-item {
+  margin-bottom: 10px;
+}
+
+.card-img-rounded {
+  border-radius: 10px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+
+.card-content {
+  display: flex;
+}
+
+.card-body {
+  flex: 1;
+}
+
+
+.card-content {
+  display: flex;
+}
+
+.card-body {
+  flex: 1;
+}
+
+.card-img-rounded {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+@media (max-width: 768px) {
+  .card-content {
+    flex-direction: column;
+  }
+
+  .card-img-left {
+    width: 100%;
+  }
+}
+
+/* Estilos para os textos dos cards */
+.card-title {
+  font-size: 1.5rem;
+}
+
+.card-text {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.list-group-item {
+  font-size: 0.9rem;
+}
+
+
+@media (max-width: 576px) {
+  .card-title {
+    font-size: 1.2rem;
+  }
+
+  .card-text {
+    font-size: 0.9rem;
+    line-height: 1.4;
+  }
+
+  .list-group-item {
+    font-size: 0.8rem;
+  }
+}
+
+#custom-form {
+  width: 300px; 
+  outline-color: 2px solid #FFA07B;
+
+}
