@@ -16,4 +16,3 @@ Usando conceitos de programação estruturada (Vetor), criar em pseudocódigo um
 <li>As páginas devem ser responsivas ou adaptáveis. </li><br>
 <strong>Faça as formatações de acordo com a paleta de cores escolhida. </strong>
 
-C:Users/user/Desktop/PrimeiraEntrega
